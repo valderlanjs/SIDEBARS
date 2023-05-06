@@ -1,2 +1,7 @@
-# SIDEBARS
- pratica de uma barra lateral de rede solcial
+# Barra lateral de rede social
+
+
+|     | Project           | Live Demo                                                             |
+| :-: | ----------------- | --------------------------------------------------------------        |
+|     | Sidebars          | [Live Demo](https://valderlanjs.github.io/SIDEBARS/)                  |
+ 
