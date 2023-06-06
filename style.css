@@ -60,6 +60,7 @@ body {
   padding: 0 16px 0 12px;
   border-radius: 24px;
   line-height: 1;
+  transition: 0.3s;
 }
 
 .sidebar button:hover > span {
@@ -69,7 +70,6 @@ body {
 .sidebar button i {
   position: relative;
   font-size: 28px;
-  transition: 0.2s;
 }
 
 .sidebar button img {
