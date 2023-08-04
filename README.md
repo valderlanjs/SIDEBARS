@@ -1,7 +1,7 @@
 # Barra lateral de rede social
 
 
-|     | Project           | Live Demo                                                             |
+|     | Project           | Live Demo                                                            |
 | :-: | ----------------- | --------------------------------------------------------------        |
 |     | Sidebars          | [Live Demo](https://valderlanjs.github.io/SIDEBARS/)                  |
  
